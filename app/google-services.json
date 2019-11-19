@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861764872984",
+    "firebase_url": "https://shakalaka-cccd0.firebaseio.com",
+    "project_id": "shakalaka-cccd0",
+    "storage_bucket": "shakalaka-cccd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861764872984:android:e3136abe865e22363b4c6d",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861764872984-9anc8idf2u1p3caa8447h8pob4ltsl36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginandsignup",
+            "certificate_hash": "e2969b436353fcaf498411fc8364b5fe39561255"
+          }
+        },
+        {
+          "client_id": "861764872984-1jemeff8olh3r0p1j3n0v79ukcgqmadk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1jrYIvEQVBWdBwSbqxvUhrsBU4-Hs1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861764872984-1jemeff8olh3r0p1j3n0v79ukcgqmadk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
